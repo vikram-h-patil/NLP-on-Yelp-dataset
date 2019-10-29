@@ -4,4 +4,4 @@ Sentiment analysis is an automatic process of finding the opinion of a subject o
 
 
 * The python file contains the code part
-* The report in details all the steps performed
+* The report in-detail all the steps performed
